@@ -3,7 +3,7 @@
 Este projeto de Business Intelligence foi desenvolvido para a marca **Cristal Eco**, com o objetivo de reconstruir a inteligência estratégica de dados após uma falha sistêmica que resultou na perda de registros estruturados e comprometeu a análise de performance do negócio.
 
 ## 📊 Visualização do Projeto
-![Dashboard Cristal Eco](img_0001.png)
+![Dashboard Cristal Eco](img_0001_ce_bi.png)
 
 ## 🎯 Sobre o Projeto
 O desafio principal foi atuar na recuperação e tratamento de dados brutos, dispersos e desorganizados[cite: 1]. O projeto focou em transformar fragmentos de informações em uma base sólida de indicadores, permitindo a análise de performance e a tomada de decisão estratégica para uma empresa do setor de produtos de limpeza sustentáveis[cite: 1].
